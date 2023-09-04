@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h1>This is the new site</h1>
+      <h1 className="text-[3rem]">This is the new site</h1>
     </>
   );
 }
