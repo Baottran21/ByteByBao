@@ -5,7 +5,7 @@ const Header = () => {
         id="header-container"
         className=" w-full h-[10vh] flex justify-center items-center"
       >
-        <h1>This is the Header</h1>
+        <h1>ByteByBao.Dev</h1>
       </div>
     </>
   );
