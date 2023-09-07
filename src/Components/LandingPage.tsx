@@ -6,10 +6,10 @@ const LandingPage = () => {
         className=" w-full h-[90vh] flex justify-evenly items-center"
       >
         <div id="intro-container" className="w-[35vw]">
-          <h1 className="text-[2.5rem]">Hello! My name is Bao Tran!</h1>
+          <h1 className="text-[2.5rem]">Hello! 🙋🏽‍♂️My name is Bao Tran!</h1>
           <h2 className="text-[1.5rem]">
             I am a motivated Full-Stack Developer based out of the Little Apple,
-            in Manhattan, KS.
+            in Manhattan, KS 🍎📍.
           </h2>
         </div>
         <div
