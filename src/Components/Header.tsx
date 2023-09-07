@@ -8,7 +8,7 @@ const NavLinks = [
 export default function Header() {
   return (
     <>
-      <header className="w-full flex justify-between items-center h-[10vh] bg-[#eee] pl-[5vh] pr-[15vh] sticky top-0 ">
+      <header className="w-full flex justify-between items-center h-[10vh] bg-[#eee] pl-[5vh] pr-[15vh] sticky top-0 shadow-lg">
         ByteByBao.Dev
         <ul className=" w-[20vw] flex justify-between">
           {NavLinks.map((elem, index) => (
