@@ -1,9 +1,11 @@
+import TechStack from "./TechStack";
+
 const LandingPage = () => {
   return (
     <>
       <div
         id="landing-page-container"
-        className=" w-full h-[90vh] flex justify-evenly items-center"
+        className=" w-full h-[80vh] flex justify-evenly items-center"
       >
         <div id="intro-container" className="w-[35vw]">
           <h1 className="text-[2.5rem]">Hello👋🏽! My name is Bao Tran!</h1>
@@ -11,6 +13,7 @@ const LandingPage = () => {
             I am a motivated Full-Stack Developer based out of the Little apple,
             in Manhattan, KS 📍.
           </h2>
+          <TechStack />
         </div>
         <div
           id="img-container"
