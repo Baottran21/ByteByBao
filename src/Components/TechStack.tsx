@@ -41,6 +41,8 @@ const techstacks = [
   },
 ];
 
+
+
 //Callback Function to be called for drawing of the SVG
 const draw = (
   obj: { name: string; path?: { fill: string; d: string }[] },
